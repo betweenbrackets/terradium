@@ -4,6 +4,7 @@
 # you can delete this whole section/until Configuration.
 /wp-admin/
 /wp-content/plugins/
+!/wp-content/plugins/elementor
 /wp-content/themes/twenty*/
 /wp-content/uploads/
 /wp-content/index.php
