@@ -3,8 +3,12 @@
 # Note: if you want to stage/commit WP core files
 # you can delete this whole section/until Configuration.
 /wp-admin/
-/wp-content/plugins/
-!/wp-content/plugins/elementor
+/wp-content/plugins/akismet
+/wp-content/plugins/svg-support
+/wp-content/plugins/updraftplus
+/wp-content/plugins/wp-optimize
+/wp-content/plugins/wp-sweep
+/wp-content/plugins/hello.php
 /wp-content/themes/twenty*/
 /wp-content/uploads/
 /wp-content/index.php
